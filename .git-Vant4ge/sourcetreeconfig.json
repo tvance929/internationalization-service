@@ -1,0 +1,33 @@
+{
+  "$id": "35",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2019-11-15T15:56:01.2588051-06:00",
+  "LastUsedView": 0,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "Branches",
+    "Branches/Feature"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "RemoteProjectLinks": [
+    {
+      "$id": "36",
+      "BaseUrl": "https://bitbucket.org/",
+      "Identifier": "",
+      "RemoteName": "origin",
+      "Type": 0,
+      "Username": "tvance929",
+      "CloneUrl": "https://tvance929@bitbucket.org/tvance929/internationalization-service.git",
+      "ProjectUrl": "https://bitbucket.org/tvance929/internationalization-service",
+      "AccountId": "tvance929@bitbucket.org",
+      "AvatarUrl": "https://bytebucket.org/ravatar/%7B675250cb-7c47-495c-97cb-c65bd7816058%7D?ts=default",
+      "DisplayName": "origin: https://bitbucket.org/"
+    }
+  ]
+}

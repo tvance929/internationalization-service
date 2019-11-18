@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 08e080e906a0a291840157c96692d2e621639459 Todd Vance <tvance@vant4ge.com> 1573838906 -0600	clone: from https://tvance929@bitbucket.org/tvance929/internationalization-service.git
+08e080e906a0a291840157c96692d2e621639459 08e080e906a0a291840157c96692d2e621639459 Todd Vance <tvance@vant4ge.com> 1573838946 -0600	checkout: moving from master to develop
+08e080e906a0a291840157c96692d2e621639459 08e080e906a0a291840157c96692d2e621639459 Todd Vance <tvance@vant4ge.com> 1573839107 -0600	checkout: moving from develop to Feature/AD-204_Initial_Feature
+08e080e906a0a291840157c96692d2e621639459 08e080e906a0a291840157c96692d2e621639459 Todd Vance <tvance@vant4ge.com> 1573843715 -0600	checkout: moving from Feature/AD-204_Initial_Feature to master
+08e080e906a0a291840157c96692d2e621639459 08e080e906a0a291840157c96692d2e621639459 Todd Vance <tvance@vant4ge.com> 1573843731 -0600	checkout: moving from master to develop
+08e080e906a0a291840157c96692d2e621639459 08e080e906a0a291840157c96692d2e621639459 Todd Vance <tvance@vant4ge.com> 1573843754 -0600	checkout: moving from develop to Feature/AD-204_Initial_Feature
+08e080e906a0a291840157c96692d2e621639459 08e080e906a0a291840157c96692d2e621639459 Todd Vance <tvance@vant4ge.com> 1573843762 -0600	checkout: moving from Feature/AD-204_Initial_Feature to develop
+08e080e906a0a291840157c96692d2e621639459 08e080e906a0a291840157c96692d2e621639459 Todd Vance <tvance@vant4ge.com> 1573843766 -0600	checkout: moving from develop to master
+08e080e906a0a291840157c96692d2e621639459 bce53fcb867f4b1d2c3d12a298a598965fe9e882 Todd Vance <tvance@vant4ge.com> 1573843916 -0600	commit: Initial Master Commit
+bce53fcb867f4b1d2c3d12a298a598965fe9e882 77ca67acd46b62e241685d4abcb80ab63f600729 Todd Vance <tvance@vant4ge.com> 1573855345 -0600	commit: Microservice Template setup
